@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "basho-riak-client": "^2.4.0"
+  },
+  "name": "study-riak",
+  "description": "1. Запуск кластера з 3 нодами",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
